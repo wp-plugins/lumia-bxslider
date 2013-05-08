@@ -1,11 +1,11 @@
 <?php
 /*
 Plugin Name: WP BxSlider
-Plugin URI: http://www.weblumia.com/wp-bxslider.zip
+Plugin URI: http://weblumia.com/weblumias-bxslider/
 Description: Creates a slider using bxslider. WordPress plugin develop by Jinesh.P.V
 Version: 2.1
 Author: Jinesh.P.V
-Author URI: http://www.weblumia.com/
+Author URI: http://weblumia.com/weblumias-bxslider/
 License: GPL2
 /*  Copyright 2013  WP BxSlider - Jinesh.P.V  (email : jinuvijay5@gmail.com)
 
