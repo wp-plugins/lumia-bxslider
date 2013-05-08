@@ -1,4 +1,4 @@
-=== lumia-bxslider ===
+=== Lumia Bxslider by Weblumia Infomatics===
 Contributors: pv.jinesh
 Donate link: http://weblumia.com/donate/
 Tags: lumia-slider, sliders, image slider
