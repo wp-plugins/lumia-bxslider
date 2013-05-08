@@ -1,14 +1,14 @@
-=== lumia-bxslider ===
+=== Lumia Bxslider by Weblumia Infomatics===
 Contributors: pv.jinesh
 Donate link: http://weblumia.com/donate/
 Tags: lumia-slider, sliders, image slider
 Requires at least: 3.0
 Tested up to: 3.5.1
-Stable tag: 2.1
+Stable tag: 
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Creates a slider using bxslider. WordPress plugin develop by Jinesh.P.V
+creates a Slider with post thumbnails in your posts configured for a particular category of your wordpress.
 
 == Description ==
 
@@ -50,4 +50,5 @@ This plugin was developed by Jinesh.P.V - http://weblumia.com/
 == CONTACT ==
 
 Jinesh.P.V
+jinuvijay5@gmail.com
 http://weblumia.com/
