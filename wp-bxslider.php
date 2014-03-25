@@ -3,7 +3,7 @@
 Plugin Name: WP BxSlider
 Plugin URI: http://weblumia.com/weblumias-bxslider/
 Description: Creates a slider using bxslider. WordPress plugin develop by Jinesh.P.V
-Version: 2.1
+Version: 2.2
 Author: Jinesh.P.V
 Author URI: http://weblumia.com/weblumias-bxslider/
 License: GPL2
